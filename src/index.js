@@ -26,3 +26,9 @@ const take = ch => {
     }
   })
 }
+
+export {
+  channel,
+  take,
+  put
+}
